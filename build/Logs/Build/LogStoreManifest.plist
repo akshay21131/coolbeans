@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>62890BC8-5E72-47E2-8834-D36CC52CD324</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>62890BC8-5E72-47E2-8834-D36CC52CD324.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoolBeans project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoolBeans</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CoolBeans with scheme CoolBeans</string>
+			<key>timeStartedRecording</key>
+			<real>817308555.45494795</real>
+			<key>timeStoppedRecording</key>
+			<real>817308558.27034998</real>
+			<key>title</key>
+			<string>Building project CoolBeans with scheme CoolBeans</string>
+			<key>uniqueIdentifier</key>
+			<string>62890BC8-5E72-47E2-8834-D36CC52CD324</string>
+		</dict>
+		<key>9186703B-25A8-4C8C-BD9B-64C9F227F2DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9186703B-25A8-4C8C-BD9B-64C9F227F2DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoolBeans project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoolBeans</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CoolBeans with scheme CoolBeans</string>
+			<key>timeStartedRecording</key>
+			<real>817308827.272861</real>
+			<key>timeStoppedRecording</key>
+			<real>817308829.96780896</real>
+			<key>title</key>
+			<string>Building project CoolBeans with scheme CoolBeans</string>
+			<key>uniqueIdentifier</key>
+			<string>9186703B-25A8-4C8C-BD9B-64C9F227F2DE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

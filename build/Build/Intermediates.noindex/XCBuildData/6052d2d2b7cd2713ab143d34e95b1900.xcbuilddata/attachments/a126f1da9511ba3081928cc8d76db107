@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeans-primary.dia",
+    "emit-module-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeans-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeans-primary-emit-module.dia",
+    "pch" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeans-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeans-primary.swiftdeps"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/API.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/API.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/API.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/API.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/API.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/API.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/API.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/API.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/API~partial.swiftmodule"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/CoolBeansApp.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeansApp.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeansApp.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeansApp.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeansApp.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeansApp.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeansApp.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeansApp.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CoolBeansApp~partial.swiftmodule"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/CustomizeView.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CustomizeView.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CustomizeView.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CustomizeView.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CustomizeView.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CustomizeView.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CustomizeView.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CustomizeView.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/CustomizeView~partial.swiftmodule"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/History.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/History.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/History.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/History.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/History.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/History.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/History.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/History.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/History~partial.swiftmodule"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/HomeView.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/Menu.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Menu.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Menu.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Menu.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Menu.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Menu.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Menu.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Menu.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Menu~partial.swiftmodule"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/MenuView.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/MenuView.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/MenuView.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/MenuView.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/MenuView.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/MenuView.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/MenuView.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/MenuView.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/MenuView~partial.swiftmodule"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/Models.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/vishakha/Desktop/CoolBeans/CoolBeans/Store.swift" : {
+    "const-values" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Store.swiftconstvalues",
+    "dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Store.d",
+    "diagnostics" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Store.dia",
+    "index-unit-output-path" : "/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Store.o",
+    "llvm-bc" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Store.bc",
+    "object" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Store.o",
+    "swift-dependencies" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Store.swiftdeps",
+    "swiftmodule" : "/Users/vishakha/Desktop/CoolBeans/build/Build/Intermediates.noindex/CoolBeans.build/Debug-iphonesimulator/CoolBeans.build/Objects-normal/arm64/Store~partial.swiftmodule"
+  }
+}
